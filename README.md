@@ -16,13 +16,3 @@
     13、其他核心功能 </br>
     14、后续其他免费版本功能更新 </br>
     
-    <div style="display: flex;text-align: center;">
-  <div style="width: 40%">
-    <p>用户交流微信群</p>
-    <img src="https://00-1301532507.cos.ap-shanghai.myqcloud.com/ai/23534534.png" alt="用户交流群" style="width: 100%" />
-  </div>
-  <div style="width: 40%;margin-left: 35px;">
-    <p>客服微信</p>
-    <img src="https://00-1301532507.cos.ap-shanghai.myqcloud.com/ai/IMG_20240205_155825.png" alt="添加客服" style="width: 100%" />
-  </div>
-</div>
